@@ -37,6 +37,7 @@ wordpress-meetup-kit/
 ├── README.en.md
 ├── LICENSE
 ├── CONTRIBUTING.md
+├── wordpress-meetup-kit.pdf → guide with previews and direct links (Italian)
 ├── pdf/                 → every template as a PDF
 ├── template-affinity/   → source files to open in Affinity
 ├── anteprime/           → preview images of the templates
@@ -66,6 +67,8 @@ wordpress-meetup-kit/
 Click, duplicate, customize. A free Canva account is all you need. Every template is also available as a PDF.
 
 The versions of a template live in the same design, one per page. When you open the Canva link you get all of them: keep the one you need and delete the rest. In the Canva templates, PDFs and previews, the grey shape marks where your photo goes: in Canva, just drag your image onto it.
+
+> 📄 Sharing the kit with someone who doesn't use GitHub? Send them [`wordpress-meetup-kit.pdf`](wordpress-meetup-kit.pdf): it's a guide, in Italian, with every preview and direct links to Canva, the PDFs and the Affinity files.
 
 ### 📅 Save the date
 
