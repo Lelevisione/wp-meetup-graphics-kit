@@ -57,7 +57,7 @@ wordpress-meetup-kit/
 | `anteprime/` | One preview image per template | PNG |
 | `assets/wapuus/` | Wapuus and variations | SVG, PNG |
 | `assets/gradienti/` | Soft gradient backgrounds in three formats (portrait, landscape, panoramic) | JPG |
-| `assets/forme/` | Gradient clouds, flower and circles, sponsor boxes | PNG with transparency |
+| `assets/forme/` | Gradient clouds, flower and circles, sponsor boxes, photo frames | PNG with transparency, SVG |
 | `assets/font/` | Open source fonts, each with its own license | TTF, OTF |
 | `assets/brand/` | Meetup logos and identity | SVG, PNG |
 

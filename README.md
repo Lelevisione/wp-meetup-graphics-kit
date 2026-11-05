@@ -55,7 +55,7 @@ wordpress-meetup-kit/
 | `anteprime/` | Un'immagine per ogni template | PNG |
 | `assets/wapuus/` | Wapuu e varianti | SVG, PNG |
 | `assets/gradienti/` | Sfondi sfumati in tre formati (verticale, orizzontale, panoramico) | JPG |
-| `assets/forme/` | Nuvole, fiore e cerchi sfumati, box sponsor | PNG con trasparenza |
+| `assets/forme/` | Nuvole, fiore e cerchi sfumati, box sponsor, cornici per le foto | PNG con trasparenza, SVG |
 | `assets/font/` | Font open source, ognuno con la sua licenza | TTF, OTF |
 | `assets/brand/` | Loghi e identità del meetup | SVG, PNG |
 
