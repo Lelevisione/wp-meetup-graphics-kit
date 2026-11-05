@@ -17,8 +17,6 @@ Grazie per voler dare una mano. Il kit cresce con quello che le community condiv
 
 Apri una [issue](../../issues/new/choose) con il modulo **Proponi una risorsa** e trascina i file nel campo dedicato. Ti basta un account GitHub. Se un formato non viene accettato, comprimi i file in uno `.zip`.
 
-Se non hai un account GitHub, scrivici a **TODO: contatto** e allega i file: li inseriamo noi.
-
 ## Cosa accettiamo
 
 | Risorsa | Cartella | Formato preferito |
@@ -50,7 +48,7 @@ Per le altre risorse basta un nome che descriva il file, per esempio `wapuu-torr
 
 Quando mandi un contributo dichiari che il lavoro è tuo, oppure che hai il permesso di condividerlo, e accetti che venga distribuito con la licenza del kit ([CC BY 4.0](LICENSE)).
 
-Se aggiungi un wapuu, un font o una foto di qualcun altro, scrivi nella pull request o nella issue chi l'ha fatto, con quale licenza e dove l'hai trovato. Riportiamo tutto in [`LICENSES.md`](LICENSES.md).
+Se aggiungi un wapuu, un font o una foto di qualcun altro, scrivi nella pull request o nella issue chi l'ha fatto, con quale licenza e dove l'hai trovato. Riportiamo tutto nella sezione [Licenza del README](README.md#-licenza).
 
 ## Cosa non possiamo accettare
 
@@ -74,7 +72,7 @@ Tratta chi partecipa come lo tratteresti a un meetup, con rispetto e un po' di p
 Thanks for helping the kit grow.
 
 - **With GitHub:** fork the repository, add your files to the right folder and open a pull request. The checklist is already there.
-- **Without git:** open an [issue](../../issues/new/choose) with the **Proponi una risorsa** form and drag your files into it. If you don't have a GitHub account, write to **TODO: contact**.
+- **Without git:** open an [issue](../../issues/new/choose) with the **Proponi una risorsa** form and drag your files into it.
 - **File names:** lowercase, no spaces, no accents, words joined by hyphens. Templates follow `category_format`, for example `save-the-date_post-4x5.pdf`, with each version as a page of the same file.
 - **License:** by contributing you confirm the work is yours or that you have permission to share it, and you agree to release it under CC BY 4.0. For third party wapuus, fonts or photos, tell us the author, license and source.
 - **We can't accept** Canva Pro or paid stock assets, third party logos, or commercial fonts.

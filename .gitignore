@@ -1,18 +1,5 @@
-# Cartella di lavoro con Claude, non va nella repo
-xClaude/
-.claude/
-
-# File di sistema
+# File di sistema che Mac e Windows creano da soli
 .DS_Store
 ._*
 Thumbs.db
-ehthumbs.db
 desktop.ini
-$RECYCLE.BIN/
-
-# File temporanei e di lavoro
-*.tmp
-*.bak
-*~
-*~lock~
-_lavoro/

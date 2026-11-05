@@ -36,9 +36,7 @@ wordpress-meetup-kit/
 ├── README.md            → Italian version of this page
 ├── README.en.md
 ├── LICENSE
-├── LICENSES.md
 ├── CONTRIBUTING.md
-├── canva-templates.pdf
 ├── pdf/                 → every template as a PDF
 ├── template-affinity/   → source files to open in Affinity
 ├── anteprime/           → preview images of the templates
@@ -53,7 +51,7 @@ wordpress-meetup-kit/
 | Folder | Contents | Formats |
 |---|---|---|
 | `pdf/` | All templates, ready to print or share | PDF |
-| `template-affinity/` | Template source files | Affinity |
+| `template-affinity/` | Template source files | AF (Affinity 3) |
 | `anteprime/` | One preview image per template | PNG |
 | `assets/wapuus/` | Wapuus and variations | SVG, PNG |
 | `assets/gradienti/` | Soft gradient backgrounds in three formats (portrait, landscape, panoramic) | JPG |
@@ -116,8 +114,6 @@ The versions of a template live in the same design, one per page. When you open 
 | A3 | 3 with a photo, 1 type only | [Open in Canva](https://canva.link/ll27m10vguo95u0) | [PDF](pdf/locandina_a3.pdf) |
 | A2 | 3 with a photo, 1 type only | [Open in Canva](https://canva.link/3vexegk579hf1iy) | [PDF](pdf/locandina_a2.pdf) |
 
-> 📄 This repo also includes [`canva-templates.pdf`](canva-templates.pdf): a single PDF with every preview and link, handy to print or share with your team.
-
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## 📥 How to download the kit
@@ -140,7 +136,7 @@ git clone https://github.com/Lelevisione/wordpress-meetup-kit.git
 
 **With Canva.** Open the template link from the tables above. Canva asks you to use the template and creates a copy in your account, so you can change text, photos and colors and the original stays as it is.
 
-**With Affinity.** Download the kit and open the file you need from the `template-affinity/` folder. Install the fonts listed in [`LICENSES.md`](LICENSES.md) first, so Affinity doesn't replace them.
+**With Affinity.** Download the kit and open the file you need from the `template-affinity/` folder: they're Affinity 3 `.af` files, with editable text, shapes and images. Install Montserrat first, which you'll find in `assets/font/montserrat/`, so Affinity doesn't replace it with another font.
 
 Each template has the same name in `pdf/`, `template-affinity/` and `anteprime/`. If you like `promemoria_post-4x5.pdf`, the Affinity source has the same name.
 
@@ -150,7 +146,14 @@ Each template has the same name in `pdf/`, `template-affinity/` and `anteprime/`
 
 The fonts in the `assets/font/` folder have an **open license** (for example the SIL Open Font License) and you can use them freely. Each family has its own folder with the original license file inside.
 
-The PDFs in the kit use **Montserrat**, which you'll find in `assets/font/montserrat/`. The Canva templates use Gotham instead, except for the carousel, which uses Montserrat there too. Gotham is a commercial font that you can use in Canva even with a free account. Outside Canva it needs a license, so it isn't in the kit: if you work with other tools, you can use Montserrat in its place. [`LICENSES.md`](LICENSES.md) shows which Montserrat weight matches each Gotham weight.
+The PDFs in the kit use **Montserrat**, by The Montserrat Project Authors, under the SIL Open Font License 1.1: you'll find it in `assets/font/montserrat/` together with `OFL.txt`. The Canva templates use Gotham instead, except for the carousel, which uses Montserrat there too. Gotham is a commercial font that you can use in Canva even with a free account. Outside Canva it needs a license, so it isn't in the kit: if you work with other tools, you can use Montserrat in its place, with these weights.
+
+| Gotham, in the Canva templates | Montserrat, in the PDFs |
+|---|---|
+| Light | Light |
+| Book | Regular |
+| Bold | Bold |
+| Black | Black |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -168,7 +171,29 @@ One condition: **credit the source**. A line like this one is enough:
 
 > Graphics from the WordPress Meetup Kit by Gabriele Ruffini and Elisa Puddu (WordPress Pisa Meetup), CC BY 4.0
 
-> ⚠️ Some items (like certain Wapuus or fonts) have their own license, listed in [`LICENSES.md`](LICENSES.md). For those items, their license applies.
+The full license text is in the [`LICENSE`](LICENSE) file. Some items in the kit have their own license, which applies to them instead of CC BY 4.0: they're listed below.
+
+### Wapuus
+
+All the wapuus in `assets/wapuus/` are licensed under the GNU GPL v2 or later, with the full text in [`assets/wapuus/GPL-2.0.txt`](assets/wapuus/GPL-2.0.txt). Wapuu is the official character of ja.wordpress.org, designed by Kazuko Kaneuchi, who keeps the copyright. The other versions derive from the original and stay under the GPL, with the copyright of whoever drew them: when you use one, credit its designer.
+
+| Designer | Wapuu | Source |
+|---|---|---|
+| Kazuko Kaneuchi | `wapuu-original.svg`, also used in the templates with a white outline | [jawordpressorg/wapuu](https://github.com/jawordpressorg/wapuu) |
+| Silvia Goldhammer, for WordCamp Nuremberg 2016 | the three `speaker-*` time signs for speakers and `catering-wapuu.svg` | [Wapuu archive](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+| Gemma Evans | `wapmas-wapuu.svg`, `wapevil-wapuu.svg` | [Wapuu archive](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+| Michelle Schulp Hunt | the 11 `wapuu-*.png` files | [marktimemedia/wapuu](https://github.com/marktimemedia/wapuu) |
+| Elaine Shannon | `eduwapuu.png` | [Wapuu archive](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+
+Designers and sources come from the official [wapuu-api](https://github.com/jawordpressorg/wapuu-api) list.
+
+### Carousel arrow
+
+The carousel contains a decorative arrow from the Canva library. The arrow is left out of the kit: you won't find it in `assets/` and CC BY doesn't cover it.
+
+### Trademarks
+
+WordPress and WordCamp are trademarks of the WordPress Foundation. The WordPress Meetup Kit is a community project, born at the WordPress Pisa Meetup, and it isn't an official product of the WordPress Foundation. Many wapuus hold the WordPress logo: if you use the WordPress name or logo in your graphics, follow the [WordPress Foundation trademark policy](https://wordpressfoundation.org/trademark-policy/).
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -182,7 +207,7 @@ The kit is meant to grow with the community. You can contribute in two ways.
 3. Open a **pull request**: we'll review it together and add it
 
 **If you don't use git**
-Open an [**issue**](../../issues/new/choose) with your files attached (a GitHub account is enough), or write to us at **TODO: contact** and we'll add them for you.
+Open an [**issue**](../../issues/new/choose) with your files attached, a GitHub account is enough: we'll add them for you.
 
 Before sending anything, read [`CONTRIBUTING.md`](CONTRIBUTING.md) for formats, file names and the license of contributions. It's in Italian with a short English summary at the end.
 
@@ -195,3 +220,8 @@ Got an idea or missing something? Open an [issue](../../issues) and tell us what
 A kit born in the WordPress meetup community, presented at **WordCamp Pisa 2026** by Gabriele Ruffini and Elisa Puddu of the WordPress Pisa Meetup.
 
 Thanks to everyone who will help it grow.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieleruffini"><img src="https://img.shields.io/badge/LinkedIn-Gabriele_Ruffini-0A66C2?style=for-the-badge" alt="Gabriele Ruffini on LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/elisapudduu"><img src="https://img.shields.io/badge/LinkedIn-Elisa_Puddu-0A66C2?style=for-the-badge" alt="Elisa Puddu on LinkedIn"></a>
+</p>
