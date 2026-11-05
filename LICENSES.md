@@ -14,11 +14,11 @@ Template, gradienti e forme disegnati da Gabriele Ruffini ed Elisa Puddu seguono
 
 ## Font
 
-Ogni famiglia ha la sua cartella in `font/`, con il file di licenza originale.
+Ogni famiglia ha la sua cartella in `assets/font/`, con il file di licenza originale.
 
 | Famiglia | Autore o foundry | Licenza | File di licenza | Fonte |
 |---|---|---|---|---|
-| Montserrat (Light, Regular, Bold, Black) | The Montserrat Project Authors | SIL Open Font License 1.1 | [`font/montserrat/OFL.txt`](font/montserrat/OFL.txt) | [github.com/JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) |
+| Montserrat (Light, Regular, Bold, Black) | The Montserrat Project Authors | SIL Open Font License 1.1 | [`assets/font/montserrat/OFL.txt`](assets/font/montserrat/OFL.txt) | [github.com/JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat) |
 
 ## Foto e immagini nei template
 
@@ -29,7 +29,7 @@ I PDF in `pdf/` e le immagini in `anteprime/` non contengono foto di persone. Do
 
 ## Font usati nei template
 
-I modelli Canva usano due font commerciali, che per questo non sono inclusi in `font/`. Chi apre un modello senza averli vede un font sostitutivo, e può scegliere Montserrat.
+I modelli Canva usano due font commerciali, che per questo non sono inclusi in `assets/font/`. Chi apre un modello senza averli vede un font sostitutivo, e può scegliere Montserrat.
 
 | Font | Dove si usa | Autore o foundry | Licenza |
 |---|---|---|---|

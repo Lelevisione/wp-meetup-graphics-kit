@@ -42,11 +42,12 @@ wordpress-meetup-kit/
 ├── pdf/                 → every template as a PDF
 ├── template-affinity/   → source files to open in Affinity
 ├── anteprime/           → preview images of the templates
-├── wapuus/              → Wapuu mascots in different styles
-├── gradienti/           → gradient backgrounds
-├── forme/               → vector shapes and decorations
-├── font/                → open license fonts
-└── brand/               → meetup logos and identity
+└── assets/              → free graphic resources
+    ├── wapuus/          → Wapuu mascots in different styles
+    ├── gradienti/       → gradient backgrounds
+    ├── forme/           → vector shapes and decorations
+    ├── font/            → open license fonts
+    └── brand/           → meetup logos and identity
 ```
 
 | Folder | Contents | Formats |
@@ -54,11 +55,11 @@ wordpress-meetup-kit/
 | `pdf/` | All templates, ready to print or share | PDF |
 | `template-affinity/` | Template source files | Affinity |
 | `anteprime/` | One preview image per template | PNG |
-| `wapuus/` | Wapuus and variations | SVG, PNG |
-| `gradienti/` | Gradients and backgrounds | PNG, JPG |
-| `forme/` | Shapes, patterns, decorations | SVG |
-| `font/` | Open source fonts, each with its own license | TTF, OTF |
-| `brand/` | Meetup logos and identity | SVG, PNG |
+| `assets/wapuus/` | Wapuus and variations | SVG, PNG |
+| `assets/gradienti/` | Gradients and backgrounds | PNG, JPG |
+| `assets/forme/` | Shapes, patterns, decorations | SVG |
+| `assets/font/` | Open source fonts, each with its own license | TTF, OTF |
+| `assets/brand/` | Meetup logos and identity | SVG, PNG |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -147,9 +148,9 @@ Each template has the same name in `pdf/`, `template-affinity/` and `anteprime/`
 
 ## 🔤 A note on fonts
 
-The fonts in the `font/` folder have an **open license** (for example the SIL Open Font License) and you can use them freely. Each family has its own folder with the original license file inside.
+The fonts in the `assets/font/` folder have an **open license** (for example the SIL Open Font License) and you can use them freely. Each family has its own folder with the original license file inside.
 
-The PDFs in the kit use **Montserrat**, which you'll find in `font/montserrat/`. The Canva templates use Gotham instead, a commercial font: if your Canva account doesn't have it, Canva swaps it for another font and you can pick Montserrat. [`LICENSES.md`](LICENSES.md) shows which Montserrat weight matches each Gotham weight.
+The PDFs in the kit use **Montserrat**, which you'll find in `assets/font/montserrat/`. The Canva templates use Gotham instead, a commercial font: if your Canva account doesn't have it, Canva swaps it for another font and you can pick Montserrat. [`LICENSES.md`](LICENSES.md) shows which Montserrat weight matches each Gotham weight.
 
 <img src="assets/divider.svg" alt="" width="100%">
 

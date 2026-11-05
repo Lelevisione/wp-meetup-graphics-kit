@@ -23,12 +23,12 @@ Se non hai un account GitHub, scrivici a **TODO: contatto** e allega i file: li 
 
 | Risorsa | Cartella | Formato preferito |
 |---|---|---|
-| Wapuu | `wapuus/` | SVG, oppure PNG con trasparenza |
-| Gradienti e sfondi | `gradienti/` | PNG, oppure JPG per i gradienti fotografici |
-| Forme e decorazioni | `forme/` | SVG |
-| Font | `font/` | TTF o OTF, con il file di licenza originale |
+| Wapuu | `assets/wapuus/` | SVG, oppure PNG con trasparenza |
+| Gradienti e sfondi | `assets/gradienti/` | PNG, oppure JPG per i gradienti fotografici |
+| Forme e decorazioni | `assets/forme/` | SVG |
+| Font | `assets/font/` | TTF o OTF, con il file di licenza originale |
 | Template | `pdf/` e `template-affinity/` | PDF più il file sorgente Affinity, e il link al modello Canva se c'è |
-| Loghi e identità | `brand/` | SVG, PNG |
+| Loghi e identità | `assets/brand/` | SVG, PNG |
 
 ## Nomi dei file
 
