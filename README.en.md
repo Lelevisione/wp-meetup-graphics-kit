@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="wordpress-meetup-kit.pdf"><img src="https://img.shields.io/badge/PDF_guide_(Italian)-previews_and_direct_links-FDD000?style=for-the-badge&labelColor=1D1A00" alt="PDF guide in Italian, with previews and direct links"></a>
+</p>
+
+<p align="center">
   <a href="#-whats-in-the-kit">What's inside</a> ·
   <a href="#-canva-templates">Canva templates</a> ·
   <a href="#-how-to-download-the-kit">Download</a> ·

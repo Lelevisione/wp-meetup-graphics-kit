@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="wordpress-meetup-kit.pdf"><img src="https://img.shields.io/badge/Guida_in_PDF-anteprime_e_link_diretti-FDD000?style=for-the-badge&labelColor=1D1A00" alt="Guida in PDF con anteprime e link diretti"></a>
+</p>
+
+<p align="center">
   <a href="#-cosa-trovi-nel-kit">Cosa trovi</a> ·
   <a href="#-template-canva">Template Canva</a> ·
   <a href="#-come-scaricare-il-kit">Scarica</a> ·
