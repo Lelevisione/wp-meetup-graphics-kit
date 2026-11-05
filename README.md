@@ -65,7 +65,7 @@ wordpress-meetup-kit/
 
 Clicca, duplica, personalizza. Serve solo un account Canva gratuito. Ogni template c'è anche in PDF.
 
-Le versioni di un template stanno nello stesso design, una per pagina. Quando apri il link Canva le ricevi tutte: tieni quella che ti serve e cancella le altre. Nei PDF e nelle anteprime il riquadro grigio indica dove va la tua foto.
+Le versioni di un template stanno nello stesso design, una per pagina. Quando apri il link Canva le ricevi tutte: tieni quella che ti serve e cancella le altre. Nei modelli Canva, nei PDF e nelle anteprime il riquadro grigio indica dove va la tua foto: su Canva basta trascinarci sopra la tua immagine.
 
 ### 📅 Save the date
 
@@ -73,8 +73,8 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 
 | Formato | Versioni | Canva | PDF |
 |---|---|---|---|
-| Post 4:5 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/save-the-date_post-4x5.pdf) |
-| Stories 9:16 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/save-the-date_stories-9x16.pdf) |
+| Post 4:5 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/ystrq4ud9vspvyh) | [PDF](pdf/save-the-date_post-4x5.pdf) |
+| Stories 9:16 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/iepbwtuul3rl8dt) | [PDF](pdf/save-the-date_stories-9x16.pdf) |
 
 ### 🔔 Promemoria
 
@@ -82,8 +82,8 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 
 | Formato | Versioni | Canva | PDF |
 |---|---|---|---|
-| Post 4:5 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/promemoria_post-4x5.pdf) |
-| Stories 9:16 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/promemoria_stories-9x16.pdf) |
+| Post 4:5 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/l5xqpu4af0pzzk9) | [PDF](pdf/promemoria_post-4x5.pdf) |
+| Stories 9:16 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/kkydye1pmmiz9xb) | [PDF](pdf/promemoria_stories-9x16.pdf) |
 
 ### 🎠 Carosello
 
@@ -91,7 +91,7 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 
 | Template | Slide | Canva | PDF |
 |---|---|---|---|
-| Recap di un evento, con l'esempio di WordCamp Europe 2026 | 5 | [Apri su Canva](#) | [PDF](pdf/carosello_recap-evento.pdf) |
+| Recap di un evento, con l'esempio di WordCamp Europe 2026 | 5 | [Apri su Canva](https://canva.link/n4lqpyv5e31503n) | [PDF](pdf/carosello_recap-evento.pdf) |
 
 ### 👤 Kit profilo
 
@@ -99,10 +99,10 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 
 | Elemento | Versioni | Canva | PDF |
 |---|---|---|---|
-| Avatar | 2 (fiore e cerchio) | [Apri su Canva](#) | [PDF](pdf/kit-profilo_avatar.pdf) |
-| Copertina LinkedIn | 1 | [Apri su Canva](#) | [PDF](pdf/kit-profilo_copertina-linkedin.pdf) |
-| Copertina Facebook | 1 | [Apri su Canva](#) | [PDF](pdf/kit-profilo_copertina-facebook.pdf) |
-| Copertina evento Meetup.com | 1 | [Apri su Canva](#) | [PDF](pdf/kit-profilo_copertina-evento-meetup.pdf) |
+| Avatar | 2 (fiore e cerchio) | [Apri su Canva](https://canva.link/o7a06vxfk3qimfs) | [PDF](pdf/kit-profilo_avatar.pdf) |
+| Copertina LinkedIn | 1 | [Apri su Canva](https://canva.link/xvimdha01su9218) | [PDF](pdf/kit-profilo_copertina-linkedin.pdf) |
+| Copertina Facebook | 1 | [Apri su Canva](https://canva.link/tbaa9ua8wkdrcmm) | [PDF](pdf/kit-profilo_copertina-facebook.pdf) |
+| Copertina evento Meetup.com | 1 | [Apri su Canva](https://canva.link/6w9petz7oge1pg0) | [PDF](pdf/kit-profilo_copertina-evento-meetup.pdf) |
 
 ### 🖨️ Locandina stampabile
 
@@ -110,9 +110,9 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 
 | Formato | Versioni | Canva | PDF |
 |---|---|---|---|
-| A4 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/locandina_a4.pdf) |
-| A3 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/locandina_a3.pdf) |
-| A2 | 3 con foto, 1 solo tipografica | [Apri su Canva](#) | [PDF](pdf/locandina_a2.pdf) |
+| A4 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/10clq2lgqrucckd) | [PDF](pdf/locandina_a4.pdf) |
+| A3 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/ll27m10vguo95u0) | [PDF](pdf/locandina_a3.pdf) |
+| A2 | 3 con foto, 1 solo tipografica | [Apri su Canva](https://canva.link/3vexegk579hf1iy) | [PDF](pdf/locandina_a2.pdf) |
 
 > 📄 In questa repo trovi anche [`canva-templates.pdf`](canva-templates.pdf): un unico PDF con tutte le anteprime e i link, comodo da stampare o condividere con il tuo team.
 

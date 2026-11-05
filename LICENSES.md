@@ -22,9 +22,8 @@ Ogni famiglia ha la sua cartella in `assets/font/`, con il file di licenza origi
 
 ## Foto e immagini nei template
 
-I PDF in `pdf/` e le immagini in `anteprime/` non contengono foto di persone. Dove nel template va una foto trovi un riquadro grigio, da sostituire con le tue immagini.
+I PDF in `pdf/`, le immagini in `anteprime/` e i modelli Canva linkati nel README non contengono foto di persone. Dove nel template va una foto trovi un riquadro grigio, da sostituire con le tue immagini.
 
-<!-- TODO: i modelli Canva originali contengono ritratti degli speaker di WordCamp Pisa 2026 e foto di WordCamp Europe 2026. Se i link Canva del README puntano agli originali, servono qui autore e permesso di ogni foto. Se puntano alle copie senza foto (cartella Canva "Meetup Kit - copie senza foto"), questa sezione resta così. -->
 <!-- TODO: il carosello usa un elemento grafico della libreria Canva (la freccia decorativa, ID MAE-NcSkeDQ): verificare che la licenza Canva ne consenta la distribuzione dentro un template. -->
 
 ## Font usati nei template
