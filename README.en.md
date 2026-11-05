@@ -150,7 +150,7 @@ Each template has the same name in `pdf/`, `template-affinity/` and `anteprime/`
 
 The fonts in the `assets/font/` folder have an **open license** (for example the SIL Open Font License) and you can use them freely. Each family has its own folder with the original license file inside.
 
-The PDFs in the kit use **Montserrat**, which you'll find in `assets/font/montserrat/`. The Canva templates use Gotham instead, a commercial font: if your Canva account doesn't have it, Canva swaps it for another font and you can pick Montserrat. [`LICENSES.md`](LICENSES.md) shows which Montserrat weight matches each Gotham weight.
+The PDFs in the kit use **Montserrat**, which you'll find in `assets/font/montserrat/`. The Canva templates use Gotham instead, except for the carousel, which uses Montserrat there too. Gotham is a commercial font that you can use in Canva even with a free account. Outside Canva it needs a license, so it isn't in the kit: if you work with other tools, you can use Montserrat in its place. [`LICENSES.md`](LICENSES.md) shows which Montserrat weight matches each Gotham weight.
 
 <img src="assets/divider.svg" alt="" width="100%">
 

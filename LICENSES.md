@@ -34,29 +34,26 @@ Ogni famiglia ha la sua cartella in `assets/font/`, con il file di licenza origi
 
 I PDF in `pdf/`, le immagini in `anteprime/` e i modelli Canva linkati nel README non contengono foto di persone. Dove nel template va una foto trovi un riquadro grigio, da sostituire con le tue immagini.
 
-<!-- TODO: il carosello usa un elemento grafico della libreria Canva (la freccia decorativa, ID MAE-NcSkeDQ): verificare che la licenza Canva ne consenta la distribuzione dentro un template. -->
+Il carosello contiene una freccia decorativa presa dalla libreria di Canva. La freccia è esclusa dal kit: non la trovi in `assets/` e la licenza CC BY non la copre.
 
 ## Font usati nei template
 
-I modelli Canva usano due font commerciali, che per questo non sono inclusi in `assets/font/`. Chi apre un modello senza averli vede un font sostitutivo, e può scegliere Montserrat.
+I modelli Canva usano Gotham, un font commerciale che per questo non è incluso in `assets/font/`. Su Canva Gotham è disponibile anche con l'account gratuito, quindi chi apre un modello lo vede come l'abbiamo disegnato.
 
 | Font | Dove si usa | Autore o foundry | Licenza |
 |---|---|---|---|
-| Gotham (Light, Book, Bold, Black) | Tutti i modelli Canva | Hoefler&Co. | Commerciale |
-| Helvetica World (Regular, Bold) | Modello Canva del carosello | Monotype | Commerciale |
+| Gotham (Light, Book, Bold, Black) | Tutti i modelli Canva tranne il carosello | Hoefler&Co. | Commerciale |
 
-<!-- TODO: verificare come Gotham è stato aggiunto su Canva (libreria Canva o Brand Kit) e cosa vede chi apre il link modello con un account gratuito. -->
+Il carosello usa Montserrat anche su Canva, quindi il modello e il PDF coincidono.
 
-Nei PDF in `pdf/` questi font sono stati sostituiti con Montserrat, con i pesi più vicini:
+Nei PDF in `pdf/` Gotham è stato sostituito con Montserrat, con i pesi più vicini:
 
 | Nei modelli Canva | Nei PDF |
 |---|---|
 | Gotham Light | Montserrat Light |
-| Gotham Book, Helvetica World Regular | Montserrat Regular |
-| Gotham Bold, Helvetica World Bold | Montserrat Bold |
+| Gotham Book | Montserrat Regular |
+| Gotham Bold | Montserrat Bold |
 | Gotham Black | Montserrat Black |
-
-Nel carosello Montserrat è più largo di Helvetica World: per lasciare ogni testo nel suo spazio il corpo è leggermente ridotto.
 
 ## Font necessari per modificare i sorgenti Affinity
 

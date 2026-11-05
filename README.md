@@ -148,7 +148,7 @@ Ogni template ha lo stesso nome in `pdf/`, `template-affinity/` e `anteprime/`. 
 
 I font inclusi nella cartella `assets/font/` hanno **licenza aperta** (ad esempio SIL Open Font License) e puoi usarli liberamente. Ogni famiglia ha la sua cartella, con dentro il file di licenza originale.
 
-I PDF del kit usano **Montserrat**, che trovi in `assets/font/montserrat/`. I modelli Canva usano invece Gotham, un font commerciale: se il tuo account Canva non ce l'ha, Canva lo sostituisce e puoi scegliere Montserrat al suo posto. In [`LICENSES.md`](LICENSES.md) trovi quale peso di Montserrat corrisponde a ogni peso di Gotham.
+I PDF del kit usano **Montserrat**, che trovi in `assets/font/montserrat/`. I modelli Canva usano invece Gotham, tranne il carosello che è in Montserrat anche lì. Gotham è un font commerciale che su Canva puoi usare anche con l'account gratuito. Fuori da Canva serve una licenza, per questo nel kit non c'è: se lavori con altri programmi puoi usare Montserrat al suo posto. In [`LICENSES.md`](LICENSES.md) trovi quale peso di Montserrat corrisponde a ogni peso di Gotham.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
