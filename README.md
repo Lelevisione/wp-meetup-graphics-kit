@@ -43,7 +43,7 @@ wordpress-meetup-kit/
 └── assets/              → risorse grafiche libere
     ├── wapuus/          → mascotte Wapuu in vari stili
     ├── gradienti/       → sfondi sfumati pronti all'uso
-    ├── forme/           → forme e decorazioni vettoriali
+    ├── forme/           → forme e decorazioni sfumate
     ├── font/            → font con licenza aperta
     └── brand/           → loghi e identità del meetup
 ```
@@ -54,8 +54,8 @@ wordpress-meetup-kit/
 | `template-affinity/` | File sorgente dei template | Affinity |
 | `anteprime/` | Un'immagine per ogni template | PNG |
 | `assets/wapuus/` | Wapuu e varianti | SVG, PNG |
-| `assets/gradienti/` | Gradienti e sfondi | PNG, JPG |
-| `assets/forme/` | Forme, pattern, decorazioni | SVG |
+| `assets/gradienti/` | Sfondi sfumati in tre formati (verticale, orizzontale, panoramico) | JPG |
+| `assets/forme/` | Nuvole, fiore e cerchi sfumati, box sponsor | PNG con trasparenza |
 | `assets/font/` | Font open source, ognuno con la sua licenza | TTF, OTF |
 | `assets/brand/` | Loghi e identità del meetup | SVG, PNG |
 

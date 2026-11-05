@@ -45,7 +45,7 @@ wordpress-meetup-kit/
 └── assets/              → free graphic resources
     ├── wapuus/          → Wapuu mascots in different styles
     ├── gradienti/       → gradient backgrounds
-    ├── forme/           → vector shapes and decorations
+    ├── forme/           → gradient shapes and decorations
     ├── font/            → open license fonts
     └── brand/           → meetup logos and identity
 ```
@@ -56,8 +56,8 @@ wordpress-meetup-kit/
 | `template-affinity/` | Template source files | Affinity |
 | `anteprime/` | One preview image per template | PNG |
 | `assets/wapuus/` | Wapuus and variations | SVG, PNG |
-| `assets/gradienti/` | Gradients and backgrounds | PNG, JPG |
-| `assets/forme/` | Shapes, patterns, decorations | SVG |
+| `assets/gradienti/` | Soft gradient backgrounds in three formats (portrait, landscape, panoramic) | JPG |
+| `assets/forme/` | Gradient clouds, flower and circles, sponsor boxes | PNG with transparency |
 | `assets/font/` | Open source fonts, each with its own license | TTF, OTF |
 | `assets/brand/` | Meetup logos and identity | SVG, PNG |
 
