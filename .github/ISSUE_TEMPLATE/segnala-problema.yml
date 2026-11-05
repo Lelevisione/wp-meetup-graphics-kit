@@ -1,0 +1,44 @@
+name: Segnala un problema
+description: Un link che non funziona, un file che non si apre, un errore in un template.
+title: "[Problema] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Cosa non funziona
+      description: Racconta cosa ti aspettavi e cosa succede invece.
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: Template o file coinvolto
+      description: Il nome del file o il link Canva.
+      placeholder: promemoria_stories-9x16
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dove
+    attributes:
+      label: Dove succede
+      options:
+        - Canva
+        - Affinity
+        - PDF
+        - README o documentazione
+        - Altro
+    validations:
+      required: true
+
+  - type: textarea
+    id: passi
+    attributes:
+      label: Passi per riprodurlo
+      description: Cosa hai fatto, un passo per riga. Se puoi, aggiungi uno screenshot.
+      placeholder: |
+        1. Apro il link Canva della locandina A4
+        2. Clicco per creare la copia
+        3. ...

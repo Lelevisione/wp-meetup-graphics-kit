@@ -1,0 +1,18 @@
+# Cartella di lavoro con Claude, non va nella repo
+xClaude/
+.claude/
+
+# File di sistema
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# File temporanei e di lavoro
+*.tmp
+*.bak
+*~
+*~lock~
+_lavoro/

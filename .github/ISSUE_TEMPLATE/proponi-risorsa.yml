@@ -1,0 +1,78 @@
+name: Proponi una risorsa
+description: Un wapuu, un gradiente, una forma, un font, un template o un logo da aggiungere al kit.
+title: "[Risorsa] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Grazie per il contributo! Formati, nomi dei file e licenze sono spiegati in CONTRIBUTING.md, nella pagina principale della repository.
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo di risorsa
+      options:
+        - Wapuu
+        - Gradiente o sfondo
+        - Forma o decorazione
+        - Font
+        - Template
+        - Logo o elemento di identità
+        - Altro
+    validations:
+      required: true
+
+  - type: textarea
+    id: descrizione
+    attributes:
+      label: Descrizione
+      description: Cos'è e in quali grafiche si può usare.
+    validations:
+      required: true
+
+  - type: textarea
+    id: file
+    attributes:
+      label: File
+      description: Trascina qui i file. Se un formato non viene accettato, comprimili in uno .zip. Se sono molto pesanti, incolla un link per scaricarli.
+    validations:
+      required: true
+
+  - type: input
+    id: autore
+    attributes:
+      label: Autore
+      description: Chi ha creato la risorsa. Se sei tu, scrivi il tuo nome come vuoi vederlo nei crediti.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: licenza
+    attributes:
+      label: Licenza
+      options:
+        - L'ho fatto io e lo rilascio con CC BY 4.0
+        - CC0
+        - SIL Open Font License (OFL)
+        - Apache 2.0
+        - Altra licenza aperta (scrivila nella descrizione)
+        - Non lo so
+    validations:
+      required: true
+
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Se la risorsa non è tua, il link alla pagina originale.
+
+  - type: checkboxes
+    id: conferme
+    attributes:
+      label: Conferme
+      options:
+        - label: Il lavoro è mio oppure ho il permesso di condividerlo, e accetto che sia distribuito con la licenza del kit o con quella indicata sopra.
+          required: true
+        - label: Non contiene elementi Canva Pro, immagini stock a pagamento, loghi di terzi o font commerciali.
+          required: true

@@ -1,0 +1,19 @@
+# Testo normalizzato con fine riga LF
+* text=auto
+
+# File binari: niente conversioni e niente diff testuali
+*.pdf      binary
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.webp     binary
+*.gif      binary
+*.afdesign binary
+*.afpub    binary
+*.afphoto  binary
+*.af       binary
+*.ttf      binary
+*.otf      binary
+*.woff     binary
+*.woff2    binary
+*.zip      binary
