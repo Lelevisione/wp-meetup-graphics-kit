@@ -26,7 +26,6 @@ Apri una [issue](../../issues/new/choose) con il modulo **Proponi una risorsa** 
 | Forme e decorazioni | `assets/forme/` | SVG |
 | Font | `assets/font/` | TTF o OTF, con il file di licenza originale |
 | Template | `pdf/` e `template-affinity/` | PDF più il file sorgente Affinity, e il link al modello Canva se c'è |
-| Loghi e identità | `assets/brand/` | SVG, PNG |
 
 ## Nomi dei file
 

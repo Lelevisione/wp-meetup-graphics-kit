@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="WordPress Meetup Kit" width="100%">
+  <img src="assets/banner.svg" alt="WP Meetup Graphics Kit" width="100%">
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="wordpress-meetup-kit.pdf"><img src="https://img.shields.io/badge/PDF_guide_(Italian)-previews_and_direct_links-FDD000?style=for-the-badge&labelColor=1D1A00" alt="PDF guide in Italian, with previews and direct links"></a>
+  <a href="wp-meetup-graphics-kit.pdf"><img src="https://img.shields.io/badge/PDF_guide_(Italian)-previews_and_direct_links-FDD000?style=for-the-badge&labelColor=1D1A00" alt="PDF guide in Italian, with previews and direct links"></a>
 </p>
 
 <p align="center">
@@ -36,12 +36,12 @@ Start from the Canva templates if you're in a hurry. Download the resources if y
 The folders have Italian names. Here's what each one holds.
 
 ```
-wordpress-meetup-kit/
+wp-meetup-graphics-kit/
 ├── README.md            → Italian version of this page
 ├── README.en.md
 ├── LICENSE
 ├── CONTRIBUTING.md
-├── wordpress-meetup-kit.pdf → guide with previews and direct links (Italian)
+├── wp-meetup-graphics-kit.pdf → guide with previews and direct links (Italian)
 ├── pdf/                 → every template as a PDF
 ├── template-affinity/   → source files to open in Affinity
 ├── anteprime/           → preview images of the templates
@@ -49,8 +49,7 @@ wordpress-meetup-kit/
     ├── wapuus/          → Wapuu mascots in different styles
     ├── gradienti/       → gradient backgrounds
     ├── forme/           → gradient shapes and decorations
-    ├── font/            → open license fonts
-    └── brand/           → meetup logos and identity
+    └── font/            → open license fonts
 ```
 
 | Folder | Contents | Formats |
@@ -62,7 +61,6 @@ wordpress-meetup-kit/
 | `assets/gradienti/` | Soft gradient backgrounds: yellow in three formats (portrait, landscape, panoramic) and nine more colors in landscape | JPG, PNG |
 | `assets/forme/` | Gradient clouds, flower and circles, sponsor boxes, photo frames | PNG with transparency, SVG |
 | `assets/font/` | Open source fonts, each with its own license | TTF, OTF |
-| `assets/brand/` | Meetup logos and identity | SVG, PNG |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -72,7 +70,7 @@ Click, duplicate, customize. A free Canva account is all you need. Every templat
 
 The versions of a template live in the same design, one per page. When you open the Canva link you get all of them: keep the one you need and delete the rest. In the Canva templates, PDFs and previews, the grey shape marks where your photo goes: in Canva, just drag your image onto it.
 
-> 📄 Sharing the kit with someone who doesn't use GitHub? Send them [`wordpress-meetup-kit.pdf`](wordpress-meetup-kit.pdf): it's a guide, in Italian, with every preview and direct links to Canva, the PDFs and the Affinity files.
+> 📄 Sharing the kit with someone who doesn't use GitHub? Send them [`wp-meetup-graphics-kit.pdf`](wp-meetup-graphics-kit.pdf): it's a guide, in Italian, with every preview and direct links to Canva, the PDFs and the Affinity files.
 
 ### 📅 Save the date
 
@@ -134,7 +132,7 @@ The versions of a template live in the same design, one per page. When you open 
 If you prefer the terminal:
 
 ```bash
-git clone https://github.com/Lelevisione/wordpress-meetup-kit.git
+git clone https://github.com/Lelevisione/wp-meetup-graphics-kit.git
 ```
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -176,7 +174,7 @@ You can:
 
 One condition: **credit the source**. A line like this one is enough:
 
-> Graphics from the WordPress Meetup Kit by Gabriele Ruffini and Elisa Puddu (WordPress Pisa Meetup), CC BY 4.0
+> Graphics from the WP Meetup Graphics Kit by Gabriele Ruffini and Elisa Puddu (WordPress Pisa Meetup), CC BY 4.0
 
 The full license text is in the [`LICENSE`](LICENSE) file. Some items in the kit have their own license, which applies to them instead of CC BY 4.0: they're listed below.
 
@@ -200,7 +198,7 @@ The carousel contains a decorative arrow from the Canva library. The arrow is le
 
 ### Trademarks
 
-WordPress and WordCamp are trademarks of the WordPress Foundation. The WordPress Meetup Kit is a community project, born at the WordPress Pisa Meetup, and it isn't an official product of the WordPress Foundation. Many wapuus hold the WordPress logo: if you use the WordPress name or logo in your graphics, follow the [WordPress Foundation trademark policy](https://wordpressfoundation.org/trademark-policy/).
+WordPress and WordCamp are trademarks of the WordPress Foundation. The WP Meetup Graphics Kit is a community project, born at the WordPress Pisa Meetup, and it isn't an official product of the WordPress Foundation. Many wapuus hold the WordPress logo: if you use the WordPress name or logo in your graphics, follow the [WordPress Foundation trademark policy](https://wordpressfoundation.org/trademark-policy/).
 
 <img src="assets/divider.svg" alt="" width="100%">
 

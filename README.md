@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="WordPress Meetup Kit" width="100%">
+  <img src="assets/banner.svg" alt="WP Meetup Graphics Kit" width="100%">
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="wordpress-meetup-kit.pdf"><img src="https://img.shields.io/badge/Guida_in_PDF-anteprime_e_link_diretti-FDD000?style=for-the-badge&labelColor=1D1A00" alt="Guida in PDF con anteprime e link diretti"></a>
+  <a href="wp-meetup-graphics-kit.pdf"><img src="https://img.shields.io/badge/Guida_in_PDF-anteprime_e_link_diretti-FDD000?style=for-the-badge&labelColor=1D1A00" alt="Guida in PDF con anteprime e link diretti"></a>
 </p>
 
 <p align="center">
@@ -34,12 +34,12 @@ Parti dai template Canva se vuoi fare in fretta. Scarica le risorse se vuoi spin
 ## 📦 Cosa trovi nel kit
 
 ```
-wordpress-meetup-kit/
+wp-meetup-graphics-kit/
 ├── README.md
 ├── README.en.md
 ├── LICENSE
 ├── CONTRIBUTING.md
-├── wordpress-meetup-kit.pdf → guida con anteprime e link diretti
+├── wp-meetup-graphics-kit.pdf → guida con anteprime e link diretti
 ├── pdf/                 → ogni template in PDF
 ├── template-affinity/   → file sorgente da aprire con Affinity
 ├── anteprime/           → immagini di anteprima dei template
@@ -47,8 +47,7 @@ wordpress-meetup-kit/
     ├── wapuus/          → mascotte Wapuu in vari stili
     ├── gradienti/       → sfondi sfumati pronti all'uso
     ├── forme/           → forme e decorazioni sfumate
-    ├── font/            → font con licenza aperta
-    └── brand/           → loghi e identità del meetup
+    └── font/            → font con licenza aperta
 ```
 
 | Cartella | Contenuto | Formati |
@@ -60,7 +59,6 @@ wordpress-meetup-kit/
 | `assets/gradienti/` | Sfondi sfumati: il giallo in tre formati (verticale, orizzontale, panoramico) e altri nove colori in orizzontale | JPG, PNG |
 | `assets/forme/` | Nuvole, fiore e cerchi sfumati, box sponsor, cornici per le foto | PNG con trasparenza, SVG |
 | `assets/font/` | Font open source, ognuno con la sua licenza | TTF, OTF |
-| `assets/brand/` | Loghi e identità del meetup | SVG, PNG |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -70,7 +68,7 @@ Clicca, duplica, personalizza. Serve solo un account Canva gratuito. Ogni templa
 
 Le versioni di un template stanno nello stesso design, una per pagina. Quando apri il link Canva le ricevi tutte: tieni quella che ti serve e cancella le altre. Nei modelli Canva, nei PDF e nelle anteprime il riquadro grigio indica dove va la tua foto: su Canva basta trascinarci sopra la tua immagine.
 
-> 📄 Vuoi passare il kit a chi non usa GitHub? Manda [`wordpress-meetup-kit.pdf`](wordpress-meetup-kit.pdf): è una guida con tutte le anteprime e i link diretti a Canva, ai PDF e ai file Affinity.
+> 📄 Vuoi passare il kit a chi non usa GitHub? Manda [`wp-meetup-graphics-kit.pdf`](wp-meetup-graphics-kit.pdf): è una guida con tutte le anteprime e i link diretti a Canva, ai PDF e ai file Affinity.
 
 ### 📅 Save the date
 
@@ -132,7 +130,7 @@ Le versioni di un template stanno nello stesso design, una per pagina. Quando ap
 Se invece preferisci il terminale:
 
 ```bash
-git clone https://github.com/Lelevisione/wordpress-meetup-kit.git
+git clone https://github.com/Lelevisione/wp-meetup-graphics-kit.git
 ```
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -174,7 +172,7 @@ In pratica puoi:
 
 A una condizione: **cita la fonte**. Basta una riga come questa:
 
-> Grafiche dal WordPress Meetup Kit di Gabriele Ruffini ed Elisa Puddu (WordPress Pisa Meetup), CC BY 4.0
+> Grafiche dal WP Meetup Graphics Kit di Gabriele Ruffini ed Elisa Puddu (WordPress Pisa Meetup), CC BY 4.0
 
 Il testo completo della licenza è nel file [`LICENSE`](LICENSE). Alcuni elementi del kit hanno una licenza propria, che per quell'elemento prende il posto della CC BY 4.0: sono elencati qui sotto.
 
@@ -198,7 +196,7 @@ Il carosello contiene una freccia decorativa presa dalla libreria di Canva. La f
 
 ### Marchi
 
-WordPress e WordCamp sono marchi della WordPress Foundation. Il WordPress Meetup Kit è un progetto della community, nato dal WordPress Pisa Meetup, e non è un prodotto ufficiale della WordPress Foundation. Molti wapuu tengono in mano il logo di WordPress: se usi il nome o il logo di WordPress nelle tue grafiche, segui la [policy sui marchi della WordPress Foundation](https://wordpressfoundation.org/trademark-policy/).
+WordPress e WordCamp sono marchi della WordPress Foundation. Il WP Meetup Graphics Kit è un progetto della community, nato dal WordPress Pisa Meetup, e non è un prodotto ufficiale della WordPress Foundation. Molti wapuu tengono in mano il logo di WordPress: se usi il nome o il logo di WordPress nelle tue grafiche, segui la [policy sui marchi della WordPress Foundation](https://wordpressfoundation.org/trademark-policy/).
 
 <img src="assets/divider.svg" alt="" width="100%">
 
