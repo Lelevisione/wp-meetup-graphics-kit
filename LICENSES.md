@@ -8,9 +8,19 @@ Template, gradienti e forme disegnati da Gabriele Ruffini ed Elisa Puddu seguono
 
 ## Wapuu
 
-| File | Autore | Licenza | Fonte |
-|---|---|---|---|
-| Wapuu presente in tutti i template | TODO | TODO | TODO |
+Tutti i wapuu del kit hanno la licenza GNU GPL v2 o successiva. Il testo completo è in [`assets/wapuus/GPL-2.0.txt`](assets/wapuus/GPL-2.0.txt).
+
+| File in `assets/wapuus/` | Autore | Fonte |
+|---|---|---|
+| `wapuu-original.svg`, lo stesso wapuu usato nei template e nei PDF con un bordo bianco aggiunto | Kazuko Kaneuchi | [jawordpressorg/wapuu](https://github.com/jawordpressorg/wapuu) |
+| `speaker-10min-wapuu.svg`, `speaker-5min-wapuu.svg`, `speaker-stop-wapuu.svg`, `catering-wapuu.svg` | Silvia Goldhammer, per WordCamp Nuremberg 2016 | [Archivio dei wapuu](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+| `wapmas-wapuu.svg`, `wapevil-wapuu.svg` | Gemma Evans | [Archivio dei wapuu](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+| `wapuu-brainhurts.png`, `wapuu-dev.png`, `wapuu-hipster.png`, `wapuu-magic.png`, `wapuu-moto.png`, `wapuu-orange.png`, `wapuu-pizza.png`, `wapuu-sleepy-wordcamp.png`, `wapuu-spy.png`, `wapuu-struggle.png`, `wapuu-travel.png` | Michelle Schulp Hunt | [marktimemedia/wapuu](https://github.com/marktimemedia/wapuu), copiati anche nell'[archivio dei wapuu](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+| `eduwapuu.png` | Elaine Shannon | [Archivio dei wapuu](https://github.com/jawordpressorg/wapuu/tree/master/wapuu-archive) |
+
+Wapuu è il personaggio ufficiale di ja.wordpress.org, disegnato da Kazuko Kaneuchi, che ne conserva il copyright. Ha la stessa licenza di WordPress, quindi puoi usarlo e modificarlo, anche dentro plugin e temi. Le altre versioni derivano dal wapuu originale e restano sotto GPL, con il copyright di chi le ha disegnate: quando ne usi una, cita chi l'ha disegnata come indicato nella tabella. Autori e fonti vengono dall'elenco ufficiale [wapuu-api](https://github.com/jawordpressorg/wapuu-api).
+
+Molti wapuu tengono in mano il logo di WordPress: per il logo valgono le regole descritte in [Marchi](#marchi).
 
 ## Font
 
